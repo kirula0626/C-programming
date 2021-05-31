@@ -68,7 +68,7 @@ void grading(int marks){
 	
         if (marks<=100 && marks>=75){
         	printf("Marks : %d\n",marks);
-        	printf("Grade is : A");
+        	printf("Grade is : A+");
 		}
 		else if (marks>=65){
 			printf("Marks : %d\n",marks);
